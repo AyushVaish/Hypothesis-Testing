@@ -7,6 +7,7 @@ Whenever there is rain, thunderstorm, snow or fog, there were less bikes were re
 Whenever the humidity is less than 20, number of bikes rented is very very low.
 Whenever the temperature is less than 10, number of bikes rented is less.
 Whenever the windspeed is greater than 35, number of bikes rented is less.
+
 Recommendations
 
 In summer and fall seasons the company should have more bikes in stock to be rented. Because the demand in these seasons is higher as compared to other seasons.
